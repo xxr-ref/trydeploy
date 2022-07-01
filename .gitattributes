@@ -1,0 +1,2 @@
+*. filter=lfs diff=lfs merge=lfs -text
+*.docusaurus filter=lfs diff=lfs merge=lfs -text
